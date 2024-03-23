@@ -85,7 +85,13 @@ section .colors .white{background-color: #f1f1f1;height: 50px;width: 50px;border
     }
 }
 @media (max-width:651px) {
+    article{
+        display: grid;
+    }
     aside img{
-        width: 100px;
+        width: 200px;
+    }
+    article section{
+        margin-left: 200px;
     }
 }
