@@ -73,7 +73,7 @@ section .colors .white{background-color: #f1f1f1;height: 50px;width: 50px;border
     width: 100px;
     margin-right: 40px;
 }
-@media (max-width:1000px) {
+@media (max-width:1200px) {
     nav{
         display: block;
     }
